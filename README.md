@@ -23,7 +23,7 @@
 - 🌱 Currently exploring **React**, **Node.js**, and **MongoDB**
 - 💼 In search of a remote job  
 - 🤝 Open to collaborating on **frontend** and **full-stack** projects  
-- ⚡ Fun fact: I love plauing mobile games!  
+- ⚡ Fun fact: I love playing mobile games!  
 
 ---
 
