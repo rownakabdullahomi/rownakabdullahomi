@@ -18,7 +18,7 @@
 
 ---
 
-## 🎨 About Me
+<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
 # Rownak Abdullah
 
@@ -114,7 +114,7 @@ Explore more projects in my 📚[GitHub Repositories](https://github.com/rownaka
 
 ---
 
-<h2 align="left">📈 GitHub Stats</h2>
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rownakabdullahomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="400" alt="stats graph"  />
@@ -123,18 +123,23 @@ Explore more projects in my 📚[GitHub Repositories](https://github.com/rownaka
 
 ---
 
-<h2 align="left">📫 Let's Connect</h2>
+<h2 align="left">💬 Connect With Me</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/rownak-abdullah" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:rownak.abdullah@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://twitter.com/rownak-abdullah" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
+  <a href="https://www.linkedin.com/in/rownak-abdullah-omi-5714a1167/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+</a>
+<a href="mailto:rownakabdullahomi@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</a>
+
+<a href="https://x.com/RownakAbdullah" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+</a>
+
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </p>
 
 ---
@@ -142,3 +147,5 @@ Explore more projects in my 📚[GitHub Repositories](https://github.com/rownaka
 <p align="left">
   🌟 Don't forget to <strong>star</strong> my repositories if you find them useful! 😊  
 </p>
+
+
