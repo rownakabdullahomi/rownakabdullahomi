@@ -18,13 +18,35 @@
 
 ---
 
-<h2 align="left">🚀 About Me</h2>
+## 🎨 About Me
+
+# Rownak Abdullah
+
+**Frontend Developer | Aspiring Full-Stack Developer | Bangladesh 🇧🇩**
+
+I’m a passionate Frontend Developer on a journey to become a skilled Full-Stack Developer. My goal is to create dynamic and user-friendly web applications that make a lasting impact. I’m currently diving deep into **React**, **Node.js**,  **Express.js** and **MongoDB** to expand my development toolkit. I'm always excited to learn new technologies and love building responsive and beautiful websites!
+
+---
+
+### 🌱 Currently Learning
+- Full-stack development with **React**,  **Express.js**, **Node.js**, and **MongoDB**
+
+### 🎯 Goals
+- 🚀 Build innovative web projects
+- 💡 Master JavaScript animations and dynamic UIs
+- 📚 Share knowledge through tutorials and blogs
+
+### ⚡ Fun Fact
+When I’m not coding, you’ll find me immersed in mobile games for hours! 🎮
+
+---
+
+## 🧑‍💻 My Info
 
 - 🌱 Currently exploring **React**, **Node.js**, and **MongoDB**
-- 💼 In search of a remote job  
+- 💼 Actively seeking remote opportunities  
 - 🤝 Open to collaborating on **frontend** and **full-stack** projects  
-- ⚡ Fun fact: I love playing mobile games!  
-
+ 
 ---
 
 <h2 align="left">🛠️ Tech Stack</h2>
@@ -38,6 +60,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
