@@ -56,9 +56,9 @@
 <h2 align="left">📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rownak-abdullah&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rownakabdullahomi&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rownak-abdullah&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rownakabdullahomi&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
