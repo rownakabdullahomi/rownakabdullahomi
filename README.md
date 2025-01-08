@@ -49,6 +49,44 @@ When I’m not coding, you’ll find me immersed in mobile games for hours! 🎮
  
 ---
 
+
+## 🚀 My Projects
+
+<p align="left">
+
+<a href="https://equi-sports-414e7.web.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/⚽%20Equi%20Sports-%234B3621.svg?style=for-the-badge&logoColor=white" alt="EquiSports"> 
+</a>
+
+<a href="https://elevate-career.web.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/🧰Elevate%20Career-%237B61D1.svg?style=for-the-badge&logo=news&logoColor=white" alt="Elevate Career"> 
+</a>
+
+<a href="https://tutor-hunt-b92c2.web.app/" target="_blank"> 
+    <img src="https://img.shields.io/badge/👩‍🏫Tutor%20Hunt-%23F77F00.svg?style=for-the-badge&logo=news&logoColor=white" alt="Tutor Hunt"> 
+</a>
+
+<a href="https://b10a8-react-gadget-heaven.surge.sh/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Gadget%20Heaven-%238C5A8D.svg?style=for-the-badge&logo=shopify&logoColor=white" alt="Gadget Heaven"> 
+</a>
+
+<a href="https://b10a7-react-bpl-dream11.surge.sh/" target="_blank"> 
+    <img src="https://img.shields.io/badge/🏏%20BPL%20Dream%2011-%2331A34D.svg?style=for-the-badge&logoColor=white" alt="BPL Dream 11"> 
+</a>
+
+
+<a href="https://peddy-b10a6.surge.sh/" target="_blank">
+    <img src="https://img.shields.io/badge/🐾%20Peddy%20Pet%20Shop-%230077B5.svg?style=for-the-badge&logoColor=white&background=%23ffa875" alt="Peddy Pet Shop" />
+</a>
+
+
+</p>
+
+Explore more projects in my 📚[GitHub Repositories](https://github.com/rownakabdullahomi?tab=repositories).
+
+---
+
+
 <h2 align="left">🛠️ Tech Stack</h2>
 
 <p align="left"> 
