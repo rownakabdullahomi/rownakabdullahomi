@@ -74,11 +74,9 @@ When I’m not coding, you’ll find me immersed in mobile games for hours! 🎮
     <img src="https://img.shields.io/badge/🏏%20BPL%20Dream%2011-%230077B5.svg?style=for-the-badge&logoColor=white" alt="BPL Dream 11"> 
 </a>
 
-
 <a href="https://peddy-b10a6.surge.sh/" target="_blank">
     <img src="https://img.shields.io/badge/🐾%20Peddy%20Pet%20Shop-%234CAF50.svg?style=for-the-badge&logoColor=white" alt="Peddy Pet Shop" />
 </a>
-
 
 </p>
 
