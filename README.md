@@ -5,7 +5,7 @@
 ---
 
 <p align="center">
-  <img width="100%" src="https://i.ibb.co.com/ByW8YfV/rb-60322.png" alt="Profile Avatar" style="border-radius: 50%; border: 2px solid #009BC1;" />
+  <img width="100%" src="https://i.ibb.co.com/vQwymbV/rb-60322.png" alt="Profile Avatar" style="border-radius: 50%; border: 2px solid #009BC1;" />
 </p>
 
 <p align="center">
