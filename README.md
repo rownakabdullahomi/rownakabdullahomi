@@ -37,7 +37,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 - 📚 Share knowledge through tutorials and blogs
 
 ### ⚡ Fun Fact
-When I’m not coding, you’ll find me immersed in mobile games for hours! 🎮
+- When I’m not coding, you’ll find me immersed in mobile games for hours! 🎮
 
 ---
 
