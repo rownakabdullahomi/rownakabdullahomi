@@ -144,12 +144,3 @@ Explore more projects in my 📚[GitHub Repositories](https://github.com/rownaka
   🌟 Don't forget to <strong>star</strong> my repositories if you find them useful! 😊  
 </p>
 
-
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/rownakabdullahomi/rownakabdullahomi/output/snake.svg" alt="Snake animation" />
-
-###
