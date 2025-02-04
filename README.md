@@ -4,9 +4,11 @@
 
 ---
 
-<p align="center">
-  <img width="100%" src="https://i.ibb.co.com/vQwymbV/rb-60322.png" alt="Profile Avatar" style="border-radius: 50%; border: 2px solid #009BC1;" />
-</p>
+<div align="center">
+  <img height="608" src="https://i.ibb.co.com/vQwymbV/rb-60322.png"  />
+</div>
+
+###
 
 <p align="center">
   <strong>Welcome to my GitHub!</strong> 🎯  
