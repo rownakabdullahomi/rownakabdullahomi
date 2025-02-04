@@ -28,7 +28,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 
 ---
 
-### 🌱 Currently Learning
+### ⚡ Currently Learning
 - Full-stack development with **React**,  **Express.js**, **Node.js**, and **MongoDB**
 
 ### 🎯 Goals
@@ -36,14 +36,14 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 - 💡 Master JavaScript animations and dynamic UIs
 - 📚 Share knowledge through tutorials and blogs
 
-### ⚡ Fun Fact
+### 🎲 Fun Fact
 - When I’m not coding, you’ll find me immersed in mobile games for hours! 🎮
 
 ---
 
 <h2 align="center">🧑‍💻 My Info</h2>
 
-- 🌱 Currently exploring **React**, **Node.js**, and **MongoDB**
+- 🌱 Currently exploring **React**,  **Express.js**,  **NextJS**, **Node.js**, and **MongoDB**
 - 💼 Actively seeking remote opportunities  
 - 🤝 Open to collaborating on **frontend** and **full-stack** projects  
  
@@ -114,9 +114,9 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rownakabdullahomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="250" width="520" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rownakabdullahomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="250" width="550" alt="stats graph"  />
 
-  <img src="https://streak-stats.demolab.com?user=rownakabdullahomi&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="250" width="520" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=rownakabdullahomi&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="250" width="550" alt="streak graph"  />
 </div>
 
 ---
