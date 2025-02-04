@@ -18,10 +18,9 @@
 
 ---
 
-<h2 align="center"> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
+<h2> About Me  <img src = "https://media2.giphy.com/media/ZGHpWzdOEkMKtwLqdc/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px"></h2>
 
-
-<h1 align="center">Rownak Abdullah</h1>
+# Rownak Abdullah
 
 **Frontend Developer | Aspiring Full-Stack Developer | Bangladesh 🇧🇩**
 
@@ -146,5 +145,4 @@ Explore more projects in my 📚[GitHub Repositories](https://github.com/rownaka
 <p align="left">
   🌟 Don't forget to <strong>star</strong> my repositories if you find them useful! 😊  
 </p>
-
 
