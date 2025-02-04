@@ -86,7 +86,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
-<p align="left"> 
+<p align="center"> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" alt="Tailwind CSS" width="70" height="40"/>
@@ -121,9 +121,9 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 
 ---
 
-<h2 align="left">💬 Connect With Me</h2>
+<h2 align="center">💬 Connect With Me</h2>
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/rownak-abdullah-omi-5714a1167/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
 </a>
