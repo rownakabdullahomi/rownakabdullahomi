@@ -115,7 +115,7 @@ Explore more projects in my 📚[GitHub Repositories](https://github.com/rownaka
 <h2 align="left">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rownakabdullahomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" width="400" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rownakabdullahomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 
   <img src="https://streak-stats.demolab.com?user=rownakabdullahomi&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
