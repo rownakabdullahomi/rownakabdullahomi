@@ -79,7 +79,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 
 </p>
 
- Explore more projects in my 📚[GitHub Repositories]</a>(https://github.com/rownakabdullahomi?tab=repositories). 
+ Explore more projects in my 📚[GitHub Repositories](https://github.com/rownakabdullahomi?tab=repositories).
 
 ---
 
