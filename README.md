@@ -51,7 +51,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 
 <h2 align="center">🚀 My Projects</h2>
 
-<p align="center">
+<p align="left">
 
 <a href="https://equi-sports-414e7.web.app/" target="_blank"> 
     <img src="https://img.shields.io/badge/⚽%20Equi%20Sports-%234B3621.svg?style=for-the-badge&logoColor=white" alt="EquiSports"> 
