@@ -123,7 +123,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 
   <img src="https://streak-stats.demolab.com?user=rownakabdullahomi&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="250" width="550" alt="streak graph"  />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rownakabdullahomi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="280" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rownakabdullahomi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="150" width="550" alt="languages graph"  />
 </div>
 
 ---
@@ -141,7 +141,10 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 <a href="https://x.com/RownakAbdullah" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
 </a>
-<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+<a href="https://www.facebook.com/rownakabdullah.oomi" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+</a>
+
 <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
 </p>
 
