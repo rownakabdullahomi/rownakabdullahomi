@@ -105,7 +105,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
   <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express logo"  />
   <img src="https://raw.githubusercontent.com/mongodb-js/mongoose/master/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="postman logo" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" alt="postman logo" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--70-flat-social-icons-color-pack-logos-432516.png?f=webp&w=256"   alt="GitHub" width="40" height="40"/>
