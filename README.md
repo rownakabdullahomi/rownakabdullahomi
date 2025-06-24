@@ -104,6 +104,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
   <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="nodejs logo"  />
   <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="express logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/mongodb-js/mongoose/master/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-github-logo-icon-download-in-svg-png-gif-file-formats--70-flat-social-icons-color-pack-logos-432516.png?f=webp&w=256"   alt="GitHub" width="40" height="40"/>
@@ -114,8 +115,6 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
   <img src="https://logodownload.org/wp-content/uploads/2019/10/adobe-photoshop-logo.png" alt="Photoshop" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn-1.webcatalog.io/catalog/adobe-illustrator/adobe-illustrator-icon-filled-256.png?v=1714773017471" alt="adobe-illustrator" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/mongodb-js/mongoose/master/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="40" height="40"/>
-  <img width="40" height="40" src="https://i.ibb.co/Kpgzx3bp/mongoose-logo-144.png" alt="mongoose"/>
 
 </p>
 
