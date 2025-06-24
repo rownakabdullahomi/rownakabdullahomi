@@ -115,6 +115,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn-1.webcatalog.io/catalog/adobe-illustrator/adobe-illustrator-icon-filled-256.png?v=1714773017471" alt="adobe-illustrator" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/mongodb-js/mongoose/master/docs/images/mongoose5_62x30_transparent.png" alt="Mongoose" width="40" height="40"/>
+  <img width="40" height="40" src="https://img.icons8.com/color/48/mongoose.png" alt="mongoose"/>
 
 </p>
 
