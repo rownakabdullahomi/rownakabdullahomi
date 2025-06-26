@@ -131,7 +131,15 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 
 [![GitHub Streak](https://rownak-github-readme-streak-stats.vercel.app?user=rownakabdullahomi&theme=neon-dark&card_width=550&card_height=190)](https://git.io/streak-stats)
   
+</div>
+
+---
+
+<h2 align="center">🐍 Follow the Snake — My GitHub Journey in Motion</h2>
+
+<div align="center">
   
+  ![snake gif](https://github.com/rownakabdullahomi/rownakabdullahomi/blob/output/github-snake-dark.svg)
 </div>
 
 ---
