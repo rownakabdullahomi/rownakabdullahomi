@@ -130,6 +130,8 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rownakabdullahomi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="180" alt="languages graph"  />
 
 <img src="https://streak-stats.demolab.com?user=rownakabdullahomi&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&order=3" height="180" width="550" alt="streak graph"  />
+
+[![GitHub Streak](https://rownak-github-readme-streak-stats.vercel.app?user=rownakabdullahomi&theme=neon-dark&card_width=550&card_height=180)](https://git.io/streak-stats)
   
   
 </div>
