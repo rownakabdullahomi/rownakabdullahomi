@@ -125,7 +125,7 @@ I’m a passionate Frontend Developer on a journey to become a skilled Full-Stac
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=rownakabdullahomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="200"  width="400" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=rownakabdullahomi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nightowl&locale=en&hide_border=false&order=1" height="250"  width="400" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rownakabdullahomi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&order=2" height="200" width="400" alt="languages graph"  />
 
